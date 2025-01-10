@@ -65,6 +65,7 @@ Fetch the latest data (price, 24h change, market cap) for a cryptocurrency.
 Example:
 ```bash
 GET /crypto/bitcoin
+https://koinx-assingment-apis-1.onrender.com/api/crypto/stats/bitcoin
 ```
 
 ### `GET /crypto/deviation/:crypto`
@@ -73,7 +74,7 @@ Get the standard deviation of prices over the last 100 price entries for a crypt
 
 Example:
 ```bash
-GET /crypto/deviation/ethereum
+GET https://koinx-assingment-apis-1.onrender.com/api/crypto/deviation/bitcoin
 ```
 
 ## Features
