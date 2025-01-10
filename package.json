@@ -2,7 +2,7 @@
   "name": "Crypto Tracker",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "dependencies": {
     "express": "^4.17.1",
