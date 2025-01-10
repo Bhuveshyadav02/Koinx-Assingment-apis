@@ -2,7 +2,9 @@
 # Crypto Tracker App
 
 This is a cryptocurrency tracker app that fetches live data for cryptocurrencies such as Bitcoin, Ethereum, and others. The app provides real-time price information, 24-hour price change statistics, and market cap details.
-
+LIVE URLS-https://koinx-assingment-apis-1.onrender.com/api/crypto/deviation/bitcoin   
+            https://koinx-assingment-apis-1.onrender.com/api/crypto/stats/bitcoin
+  YOU CAN CHANGE Crypto like ethereum or matic-network
 ## Table of Contents
 
 1. [Installation](#installation)
